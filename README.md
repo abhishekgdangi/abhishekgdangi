@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Dangi</h1>
+<h1 align="center">Hi 👋, I'm Abhishek G Dangi</h1>
 <h3 align="center">Backend Developer • Java • Spring Boot • Data Structures & Algorithms</h3>
 
 <p align="center">
@@ -89,7 +89,7 @@
 # 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-g-dangi&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekgdangi&theme=tokyo-night"/>
 </p>
 
 ---
