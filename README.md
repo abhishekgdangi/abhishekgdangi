@@ -13,6 +13,7 @@
 💻 Focused on **Backend Development & Scalable Systems**  
 ⚙️ Build real-world applications using **Java, Spring Boot, MySQL**  
 🧠 Practice **DSA daily (LeetCode + problem solving)**  
+📊 Interested in **Data Analytics & Visualization (Tableau, Kaggle)**  
 🎯 Actively seeking **Software Development Internships / SDE roles**
 
 ---
@@ -41,6 +42,11 @@
 
 ---
 
+## 📊 Analytics & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
 ## 🧠 Core Computer Science
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-FF6F61?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-6C5CE7?style=for-the-badge)
@@ -56,32 +62,44 @@
 
 ---
 
+# 📋 Skills Summary
+
+| Category | Skills |
+|---------|---------|
+| Languages | Java, C++, C, Python, SQL |
+| Backend | Spring Boot, REST APIs, JDBC |
+| Databases | MySQL, MongoDB, DBMS |
+| Analytics | Tableau, Kaggle |
+| Core CS | DSA, OS, DBMS, Computer Networks |
+| Tools | Git, GitHub, VS Code |
+| Practices | Problem Solving, Clean Code, API Design |
+
+---
+
 # 📌 Featured Projects
 
 ### 🎓 Student Management System
 - CRUD operations for students & courses  
 - Spring Boot + MySQL  
 - RESTful APIs  
-- Layered architecture (Controller → Service → Repository)
+- Layered architecture  
 
 ### 💼 Job Portal Backend
-- User authentication & role-based access  
+- Authentication & role-based access  
 - Job posting & applications  
-- Optimized database schema  
-- Production-style backend design
+- Optimized database design  
 
 ### 🧠 Data Structures & Algorithms
 - 300+ coding problems solved  
-- Arrays, Trees, Graphs, DP, Greedy  
-- Clean & optimized solutions
+- Arrays, Trees, Graphs, DP  
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishek-g-dangi&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishek-g-dangi&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekgdangi&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekgdangi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -100,7 +118,8 @@
 - Microservices
 - Low Level Design (LLD)
 - Advanced Spring Security
-- Backend performance optimization
+- Backend Optimization
+- Data Visualization (Tableau)
 
 ---
 
@@ -113,10 +132,16 @@
   <a href="https://www.linkedin.com/in/abhishek-g-dangi-634382187">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
+  <a href="https://leetcode.com/u/abhishekgdangi/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.kaggle.com/abhishekgdangi">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Building scalable backend systems • Solving problems daily • Growing as an engineer
+  ⭐ Building scalable backend systems • Solving problems daily • Learning continuously
 </p>
